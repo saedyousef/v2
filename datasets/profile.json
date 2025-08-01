@@ -1,0 +1,14 @@
+{
+  "full_name": "John Doe",
+  "title": "Software Developer",
+  "tagline": "Building things for the web",
+  "bio": [
+    "I'm a passionate developer who loves crafting clean and efficient code.",
+    "My interests include web technologies, open source, and user experience.",
+    "When not coding, I enjoy hiking and exploring new places."
+  ],
+  "social": [
+    {"name": "GitHub", "url": "https://github.com/johndoe"},
+    {"name": "LinkedIn", "url": "https://linkedin.com/in/johndoe"}
+  ]
+}
