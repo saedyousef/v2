@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Corp",
+    "duration": "2021 - Present",
+    "description": [
+      "Develop responsive web interfaces using modern technologies.",
+      "Collaborate with designers and backend developers to deliver features.",
+      "Optimize applications for performance and accessibility."
+    ]
+  },
+  {
+    "title": "Intern Developer",
+    "company": "Web Solutions",
+    "duration": "2019 - 2020",
+    "description": [
+      "Assisted in building internal tools with JavaScript.",
+      "Learned best practices for coding and testing."
+    ]
+  }
+]

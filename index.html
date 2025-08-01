@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Website</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@^3.3/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-[#0a192f] text-gray-200 font-sans">
+  <div class="min-h-screen grid md:grid-cols-2 p-8 max-w-5xl mx-auto items-center">
+    <div class="space-y-4">
+      <h1 id="full-name" class="text-4xl md:text-6xl font-bold text-white"></h1>
+      <h2 id="title" class="text-2xl text-teal-400"></h2>
+      <p id="tagline" class="text-gray-400"></p>
+      <ul id="labels" class="space-y-1 text-gray-400"></ul>
+      <div id="social" class="flex space-x-4"></div>
+    </div>
+    <div id="bio" class="mt-8 md:mt-0 text-gray-300"></div>
+  </div>
+
+  <section class="max-w-5xl mx-auto p-8" id="about">
+    <h2 class="text-3xl text-teal-400 mb-4">About</h2>
+    <div id="about-text" class="text-gray-300"></div>
+  </section>
+
+  <section class="max-w-5xl mx-auto p-8" id="experience-section">
+    <h2 class="text-3xl text-teal-400 mb-4">Experience</h2>
+    <div id="experience" class="text-gray-300"></div>
+  </section>
+
+  <section class="max-w-5xl mx-auto p-8" id="skills-section">
+    <h2 class="text-3xl text-teal-400 mb-4">Skills</h2>
+    <div id="skills" class="text-gray-300"></div>
+  </section>
+
+  <script src="main.js"></script>
+</body>
+</html>
